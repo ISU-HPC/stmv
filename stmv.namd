@@ -60,7 +60,7 @@ PMEGridSizeY         216
 PMEGridSizeZ         216
 
 # Output
-outputName          /usr/tmp/stmv-output
+outputName          stmv-output
 
 outputEnergies      20
 outputTiming        20
